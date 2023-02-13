@@ -1,0 +1,22 @@
+[
+  {
+    "PlaceId": 1,
+    "PlaceName": "Enformatik",
+    "Longitude": 35.35538, 37.060037
+  },
+  {
+    "PlaceId": 1,
+    "PlaceName": "Kütüphane",
+    "Longitude": 35.355011, 37.060258
+  },
+  {
+    "PlaceId": 1,
+    "PlaceName": "R1 Derslikleri",
+    "Longitude": 35.354716, 37.061016
+  },
+  {
+    "PlaceId": 1,
+    "PlaceName": "R2 Derslikleri",
+    "Longitude": 35.355417, 37.061032
+  }
+]
